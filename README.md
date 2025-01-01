@@ -1,15 +1,30 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Shiran Indika Karunasena</h1>
 <h3 align="center">A passionate Quality Assurance Analyst from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif"> -->
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=shirank90&label=Profile%20views&color=0e75b6&style=flat" alt="shirank90" /> 
 </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 - 🔭 I’m currently working on **Selenium Automation Projects**
 - 🌱 I’m currently learning **Selenium + Java**
 - 💬 Ask me about **QA Process and Automation**
 - 📫 How to reach me **shiranindika@gmail.com**
+
+  </td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
+
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
