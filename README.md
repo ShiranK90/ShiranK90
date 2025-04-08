@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Shiran Indika Karunasena</h1>
-<h3 align="center">A passionate Quality Assurance Analyst from Sri Lanka</h3>
+<h3 align="center">A passionate Senior Quality Assurance Analyst from Sri Lanka</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif"> -->
 
 <p align="center"> 
