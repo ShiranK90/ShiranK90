@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Selenium Automation Projects**
 - 🌱 I’m currently learning **Selenium + Java**
 - 💬 Ask me about **QA Process and Automation**
-- 📫 How to reach me **shiranindika@gmail.com**
+- 📫 How to reach me **shiranindika90@gmail.com**
 
   </td>
 <td width="50%" align="center">
